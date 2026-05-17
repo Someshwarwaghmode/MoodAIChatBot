@@ -1,4 +1,4 @@
-# 🤖 MoodBot — Streamlit AI Chatbot
+# 🤖 MoodBot AI Chatbot
 
 A mood-aware AI chatbot built with **Streamlit** + **LangChain** + **Mistral AI**, featuring a sleek dark terminal UI with animated chat bubbles and switchable personality modes.
 
